@@ -88,18 +88,6 @@ layout: intro
   src="/Logo_VG_blanco.png"
 />
 
----
-layout: default
----
-
-# Table de contenido
-
-
-<Toc columns:2 />
-<img
-  class="absolute top-0 right-0 w-42 mt-4 mr-4 "
-  src="/Logo_VG_blanco.png"
-/>
 
 ---
 transition: slide-up
