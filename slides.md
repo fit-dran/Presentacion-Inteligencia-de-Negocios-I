@@ -89,26 +89,6 @@ layout: intro
 />
 
 
----
-transition: slide-up
-
-level: 2
----
-
-# Definición y Propósito
-
-## OLAP - Procesamiento Analítico en Línea
-- Definición: Sistema diseñado para analizar y consultar grandes volúmenes de datos en múltiples dimensiones.
-- Propósito: Facilitar la toma de decisiones mediante la identificación de tendencias, patrones y anomalías en los datos.
-
-## OLTP - Procesamiento de Transacciones en Línea
-- Definición: Sistema diseñado para manejar grandes cantidades de transacciones cortas (como consultas o actualizaciones).
-- Propósito: Mantener la integridad de la base de datos en un ambiente multiusuario y asegurar la eficiencia de las operaciones diarias de negocio.
-
-<img
-  class="absolute top-0 right-0 w-42 mt-4 mr-4 "
-  src="/Logo_VG_blanco.png"
-/>
 
 ---
 layout: image-right
