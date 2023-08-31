@@ -158,7 +158,7 @@ transition: slide-down
 - Para ofrecer tendencias y análisis de comportamiento a lo largo del tiempo.
 
 <div style="text-align: right;">
-  <img src="/cube.png" alt="Description of Image" style="float: right; width: 37%; margin-left: 1em; margin-bottom: 1em;">
+  <img src="/olapcube.png" alt="Description of Image" style="float: right; width: 37%; margin-left: 1em; margin-bottom: 1em;">
 </div>
 
 <img
